@@ -227,7 +227,7 @@
             <omgdi:waypoint x="425.0" y="230.3572744014733"/>
             <omgdi:waypoint x="486.25" y="230.3572744014733"/>
             <omgdi:waypoint x="486.25" y="419.66666666666663"/>
-            <omgdi:waypoint x="587.5" y="419.6666666666667"/>
+            <omgdi:waypoint x="587.5" y="419.6666666666667asdasdasd"/>
          </bpmndi:BPMNEdge>
          <bpmndi:BPMNEdge bpmnElement="sid-E9673BD2-A08E-4AE9-9956-E3E1B61A1E61" id="sid-E9673BD2-A08E-4AE9-9956-E3E1B61A1E61_gui">
             <omgdi:waypoint x="687.5" y="439.6666666666667"/>
