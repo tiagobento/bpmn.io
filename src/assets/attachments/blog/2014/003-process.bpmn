@@ -221,7 +221,7 @@
             <omgdi:waypoint x="1100.5" y="235.5966850828729"/>
             <bpmndi:BPMNLabel labelStyle="sid-4369f190-78d6-4e3f-ba9a-ce62a445f35c">
                <omgdc:Bounds height="12.0" width="102.85711669921875" x="751.0" y="337.7690124511719"/>
-            </bpmndi:BPMNLabel>
+            </bpmndi:BPMNLabel>asdasd
          </bpmndi:BPMNEdge>
          <bpmndi:BPMNEdge bpmnElement="sid-23F76A01-FE67-4335-97B2-139D418F0515" id="sid-23F76A01-FE67-4335-97B2-139D418F0515_gui">
             <omgdi:waypoint x="425.0" y="230.3572744014733"/>
